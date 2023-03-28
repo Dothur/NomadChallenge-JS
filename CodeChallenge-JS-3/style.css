@@ -1,0 +1,15 @@
+.generate-container h3,
+.generate-container form {
+  display: inline;
+}
+.guess-container p,
+.guess-container form,
+.guess-container button {
+  display: inline;
+}
+.hidden {
+  display: none;
+}
+#gameResult {
+  font-weight: bold;
+}
